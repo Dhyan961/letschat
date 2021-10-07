@@ -1,0 +1,20 @@
+#h1{
+
+  color: brown;
+}
+
+#body{
+
+  margin-top: 100px;
+  margin-bottom: 400px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background :  magenta;
+
+  background-size : cover ; 
+}
+
+#h3{
+
+  color: rgb(184, 12, 147);
+}
